@@ -1,5 +1,9 @@
 package hallowelt;
 
+/*
+ * Das ist ein Test.
+ */
+
 class Listenelement{
 	int index;
 	String daten;
